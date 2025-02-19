@@ -1,0 +1,68 @@
+
+### User PC Issues and MAC Addresses
+
+1. **User 48:**
+   - Issue: Not on
+   - MAC Address: 18-66-DA-0C-27-A4
+
+2. **User 46:**
+   - Issue: Net
+   - MAC Address: 48-4D-7E-F8-C7-6B
+
+3. **User 45:**
+   - Issue: Net
+   - MAC Address: 50-9A-4C-3F-79-FA
+
+4. **User 44:**
+   - Issue: Net
+   - MAC Address: 48-AD-7E-D9-14-F2
+
+5. **User 42:**
+   - Issue: Net
+   - MAC Address: 40-9A-AC-3F-AA-B8
+
+6. **User 40:**
+   - Issue: Not on
+   - MAC Address: 48-4D-7E-F8-18-51
+
+7. **User 59:**
+   - Issue: Net
+   - MAC Address: 48-10-1F-74-E8-9B-51
+
+8. **User 39:**
+   - Issue: Net
+   - MAC Address: 48-4D-7E-F8-17-47
+
+9. **User 38:**
+   - Issue: Net
+   - MAC Address: 48-4D-7E-F8-17-47
+
+10. **User 28:**
+    - Issue: Internet
+    - MAC Address: 48-4D-7E-F8-14-AD
+
+11. **User 36:**
+    - Issue: Net
+    - MAC Address: 18-66-DA-47-27-5B
+
+12. **User 34:**
+    - Issue: Not on
+    - MAC Address: 50-9A-4C-46-OC-ES
+
+13. **User 12:**
+    - Issue: No Net
+    - MAC Address: 48-4D-7E-F8-18-50
+
+14. **User 32:**
+    - Issue: Net
+    - MAC Address: 50-9A-4C-47-BD-BA
+
+15. **User 20:**
+    - Issue: Net
+    - MAC Address: 50-9A-4C-46-27-42
+
+
+16. **User 26:**
+    - Issue: Net
+    - MAC Address: 48-4D-7E-D6-E6-C0
+
