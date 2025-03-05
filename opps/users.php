@@ -26,7 +26,11 @@
 
         public function get_email(){return $this->email;}
         public function get_password(){return $this->password;}
+
+
+        
     }
+
     
 
     //$user_obj = new Users("test@gmail.com","test@123");
@@ -40,6 +44,7 @@
     // $user_obj->set_email("sumitra@gmail.com");
     // $user_obj->showUser();
     // echo $user_obj->get_email();
+
 
 
     $userObj = new Users("admin@gmail.com",password:"admin@123");
