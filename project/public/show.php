@@ -9,7 +9,7 @@
         //     // var_dump($data);
         //     echo $data["id"]." ".$data["email"] ." ".$data['password']."<br>";
         // }
-
+        
     //user information Select Query 
     $sql1 = "SELECT * from users";
     $getAllUser = mysqli_query($conn,$sql1);
@@ -50,8 +50,8 @@
             echo "<td style='padding: 5px;'>".$d['email']."</td>";
             echo "<td style='padding: 5px;'>".$d['password']."</td>";
             echo "<td style='padding: 5px;'>".$d['status']."</td>";
-           echo "<td style='padding: 5px;'><a href='./users.php?id=".$d['id']."'>Edit</a></td>";
-            echo "<td style='padding: 5px;'><a href='#'>Delete</a></td>";
+            echo "<td style='padding: 5px;'><a href='./users.php?update=".$d['id']."'>Edit</a></td>";
+            echo "<td style='padding: 5px;'><a href='./users.php?delete=".$d['id']."'>Delete</a></td>";
             echo "</tr>";
         }
     ?>
